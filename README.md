@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ STRING · Documentation</h1>
+  <h1>STRING · Documentation</h1>
   <p><i>Мощный инструмент для поиска и настройки · v3.16</i></p>
   <hr />
 </div>
@@ -106,8 +106,3 @@
 **`string --mdhelp`** (MarkDown Help)  
 Создаёт MD-файл с документацией (как этот).
 
----
-
-<div align="center">
-  <sub>STRING · Инструмент для профессионального поиска · 2026</sub>
-</div>
